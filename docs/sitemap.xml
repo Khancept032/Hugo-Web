@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://project2.org/animals/</loc>
+    <lastmod>2019-01-31T15:38:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/animals/animals2/bats/</loc>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/animals/animals2/cats/</loc>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/animals/animals2/ferret/</loc>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/animals/animals2/pangolins/</loc>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/animals/animals2/penguinpage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://project2.org/animals/animals2/tigers/</loc>
+  </url>
+  
+</urlset>
